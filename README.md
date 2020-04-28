@@ -5,3 +5,4 @@ A simple iOS app that helps you keep track of all the custom paint colors you ge
 ## Privacy
 
 PaintKeeper does collect any user data and never uploads anything in any way.
+ 
